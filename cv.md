@@ -12,6 +12,6 @@
 
 - RSSchool, YouTube.
  
-- BNTU
+- BNTU, economics
 
 - Economic english in BNTU, I can understand, but speak with mistakes.
