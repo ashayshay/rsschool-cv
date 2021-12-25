@@ -1,0 +1,20 @@
+/* wildlife */
+background-image: url1500 8.jpg | none[, url | none]*
+nav{
+position: absolute;
+width: 155px;
+height: 60px;
+left: 205px;
+top: 20px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 60px;
+/* identical to box height, or 187% */
+
+text-transform: uppercase;
+
+color: #F7F7F7;
+}
